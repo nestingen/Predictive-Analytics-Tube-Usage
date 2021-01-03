@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+## Predictive Analytics: California Travel
+For this project, I wanted to do something dealing with manufacturing, since that is the field, I work in. I found my data from a Kaggle competition. Caterpillar had a competition about 5 years ago with the end goal of estimating the quoted price of tubing. Many tubes are in machines like forklifts, loaders, and bulldozers. Caterpillar provided tubing dimensions, annual usage, and past pricing for the contestants to build a predictive algorithm. My project will use this same data but instead of predicting price, I want to predict usage. I believe that there will be correlation between the many dimensions of the tubing and the annual usage.
 
-You can use the [editor on GitHub](https://github.com/nestingen/Predictive-Analytics-Tube-Usage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nestingen/Predictive-Analytics-Tube-Usage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**[Click to Go Back to Homepage](https://nestingen.github.io/)
